@@ -9,7 +9,7 @@ Basic usage with all options enabled:
 ```yaml
 
       - name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v2.0.0
+        uses: Confectrician/github-action-markdown-cli@v2.0.0
         with:
           files: .
           config_file: ".markdownlint.yaml"
